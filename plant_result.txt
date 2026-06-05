@@ -1,0 +1,2 @@
+Disease Percentage: 53.08%
+Disease Level: High Disease
